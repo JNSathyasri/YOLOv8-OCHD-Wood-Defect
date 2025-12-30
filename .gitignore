@@ -1,0 +1,20 @@
+# Datasets (NEVER upload)
+datasets/
+data/
+*.jpg
+*.png
+
+# Training outputs
+runs/
+weights/
+*.pt
+*.onnx
+
+# Caches
+__pycache__/
+.cache/
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
